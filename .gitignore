@@ -1,0 +1,28 @@
+# Credenciais - nunca versionar
+.env
+.env.*
+!.env.example
+*.key
+
+# Memória local do agente (sessões SQLite geradas na execução)
+*.db
+*.sqlite3
+
+# Relatórios temporários de execuções soltas
+relatorio_testes_*_sprint3_*.md
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Sistema e editores
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
