@@ -1,11 +1,5 @@
-EV Challenge - GoodWe | Sprint 03 - Agentes de IA e Evolução Conversacional
-Disciplina: Prompt and Artificial Intelligence
-Curso: Ciência da Computação - 1º ano
-
-Nome                              | RM     | Turma
-----------------------------------|--------|-----------
-Lucca Bertolini                   | 569552 | [PREENCHER]
-Diego de Oliveira Brandão         | 569773 | [PREENCHER]
-Raphaello Caffettani              | 572334 | [PREENCHER]
-Cristhian Henrique Clementino     | 574117 | [PREENCHER]
-Fabio Pena Vieira                 | 570441 | [PREENCHER]
+Lucca Bertolini | RM: 569552 | Turma: CCPW
+Diego de Oliveira Brandão | RM: 569773 | Turma: CCPW
+Raphaello Caffettani | RM: 572334 | Turma: CCPW
+Cristhian Henrique Clementino | RM: 574117 | Turma: CCPW
+Fabio Pena Vieira | RM: 570441 | Turma: CCPW
